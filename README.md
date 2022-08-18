@@ -1,6 +1,7 @@
 # Advanced_Subnetting
 
 Tasks
+
 Dotun, the network engineer, was given the subnet 192.168.0/24 and asked to subnet it into four subnets. He was also asked to assign each subnet to a different site. 
 He must assign them as follow:
 Subnet 1 for site 1
@@ -14,6 +15,7 @@ As for the routers, they must be configured as per the instructions in the diagr
 Finally, he must verify that the PCs can access cisco.com and facebook.com using their browsers.
 
 Solution
+
 Dotun was excited to begin work on the project. He calculated the four subnets needed, which are:
 192.168.1.0/26
 192.168.1.64/26
