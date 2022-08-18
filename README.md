@@ -33,27 +33,46 @@ Dotun was excited to begin work on the project. He calculated the four subnets n
 He then continued to calculate the first, third to the last, second to the last, and the last IP addresses for each of the subnet.
 
 Subnet 1 – 192.168.1.0/26
+
 First host = 192.168.1.1
+
 Third to the last host = 192.168.1.60
+
 Second to the last host = 192.168.1.61
-Last host = 192.168.1.62         
+
+Last host = 192.168.1.62      
+
 
 Subnet 2 - 192.168.1.64/26
+
 First host = 192.168.1.65
+
 Third to the last host = 192.168.1.124
+
 Second to the last host = 192.168.1.125
+
 Last host = 192.168.1.126 
 
+
 Subnet 3 - 192.168.1.128/26
+
 First host = 192.168.1.129
+
 Third to the last host = 192.168.1.188
+
 Second to the last host = 192.168.1.189
+
 Last host = 192.168.1.190    
 
+
 Subnet 4 - 192.168.1.192/26
+
 First host =   192.168.1.193
+
 Third to the last host = 192.168.1.252
+
 Second to the last host = 192.168.1.253
+
 Last host =   192.168.1.254         
 
 The calculated subnets and IP addresses were assigned as instructed.
